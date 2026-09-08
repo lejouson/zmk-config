@@ -104,10 +104,10 @@
 // |       |  /  |  :  |   ,  |   .  |   -  |         |         |  |         |         |       |       |      |      | TRANS |      |
 //                     |      |      |      |         |         |  |         |         |       |       |      |
 			bindings = <
-	&trans &kp N6       &kp N7      &kp N8    &kp N9  &kp N0                                      &none  &none  &none &none &none  &none
-	&none  &kp N1       &kp N2      &kp N3    &kp N4  &kp N5                                      &none  &none  &none &none &none  &none
-	&none  &kp KP_SLASH &kp LS(DOT) &kp COMMA &kp DOT &kp KP_MINUS  &trans &trans   &trans &trans &none  &none  &none &none &trans &none
-									&trans    &trans  &trans        &trans &trans   &trans &trans &trans &trans &trans
+	&trans &kp N6       &kp N7  &kp N8    &kp N9  &kp N0                                      &none  &none  &none &none &none  &none
+	&none  &kp N1       &kp N2  &kp N3    &kp N4  &kp N5                                      &none  &none  &none &none &none  &none
+	&none  &kp KP_SLASH &kp DOT &kp COMMA &kp DOT &kp KP_MINUS  &trans &trans   &trans &trans &none  &none  &none &none &trans &none
+									&trans    &trans  &trans    &trans &trans   &trans &trans &trans &trans &trans
 			>;
 		};
 
